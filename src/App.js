@@ -63,9 +63,6 @@ class App extends Component {
                         <FormattedNumber
                             value={5000}
                             style={'currency'}
-                            currency="USD"
-                            currencyDisplay="symbol"
-                            maximumFractionDigits={0}
                         />
                     </div>
                 </div>

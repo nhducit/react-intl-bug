@@ -1,7 +1,5 @@
-React Intl Hello World Example
+React Intl Bug
 ==============================
-
-This is a very simple — yet runnable app — showing how to use React Intl to format message (string) that contains a placeholder, plural, and number.
 
 ## Running Example
 
@@ -10,4 +8,15 @@ This is a very simple — yet runnable app — showing how to use React Intl to 
 $ npm install
 $ npm start
 ```
-**Open [http://localhost:3000](http://localhost:3000) to view it in the browser.**
+**Open [http://localhost:3000](http://localhost:3000) to view it in Chrome and Firefox.**
+               
+Mac:
+- Chrome: OK
+- Firefox: Error
+
+iOS:
+- Chrome: error
+- Safari: OK
+
+Android:
+- Nexus 5: OK

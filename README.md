@@ -20,3 +20,10 @@ iOS:
 
 Android:
 - Nexus 5: OK
+
+
+#Chrome
+![Chrome](React_Intl_Bug_Chrome.png)
+
+#Firefox
+![Firefox](React_Intl_Bug_Firefox.png)
